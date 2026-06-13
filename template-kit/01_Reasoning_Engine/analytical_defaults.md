@@ -167,7 +167,7 @@ Reference ranges and drug trial data are derived from populations that may syste
 
 - Whether the reference range was established on a relevant population
 - Whether trial data for treatment options was collected on a demographically similar cohort
-- Any known phenotypic differences (e.g., lean MASLD phenotype in East Asian populations, which occurs at lower BMI thresholds than Western reference ranges assume)
+- Any known phenotypic differences (e.g. metabolic conditions that present at lower thresholds in some populations than Western reference ranges assume; cardiovascular risk scores calibrated on cohorts that may not reflect your patient's demographic)
 
 This does not mean reference ranges are wrong — it means they require interpretation in context, not mechanical application.
 

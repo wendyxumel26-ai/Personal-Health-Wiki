@@ -45,7 +45,7 @@ Keep the opening factual and brief. Do not start with a history that runs 10 min
 
 Suggested opening (adapt to your own words):
 
-> *"I've got a complex health situation that spans a few systems — liver, blood, and gynaecology at the moment. I've been tracking it carefully with another GP who has been coordinating things, and I'm looking for a longer-term GP partner who is comfortable with this kind of ongoing, multi-system case. I've brought a one-page summary. Would it be useful if I walked you through it?"*
+> *"I've got a complex health situation that spans a few systems — joints, blood, and metabolism at the moment. I've been tracking it carefully with another GP who has been coordinating things, and I'm looking for a longer-term GP partner who is comfortable with this kind of ongoing, multi-system case. I've brought a one-page summary. Would it be useful if I walked you through it?"*
 
 Hand them the SBAR briefing. Give them 60–90 seconds to read it silently. Watch what they do with it.
 
@@ -83,7 +83,7 @@ They are warm and willing but immediately cite time constraints: *"I'd love to h
 **What to do:** Thank them, complete the appointment, do not return. The limitation is the practice, not necessarily the GP — but the outcome is the same.
 
 ### Band D — Dispositional standard GP
-They show mild irritation at the complexity, immediately simplify (*"let's just focus on the liver for today"*), suggest you may be over-investigating, or give you the sense that your level of engagement with your own health is a problem. They may be dismissive of specialist-level thinking from a patient.
+They show mild irritation at the complexity, immediately simplify (*"let's just focus on the joints for today"*), suggest you may be over-investigating, or give you the sense that your level of engagement with your own health is a problem. They may be dismissive of specialist-level thinking from a patient.
 
 **What to do:** Thank them, complete the appointment, do not return. Note this as a strong signal and remove from your shortlist.
 

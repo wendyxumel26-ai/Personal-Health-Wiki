@@ -1,5 +1,5 @@
 # Research File Template
-> **Usage:** Copy this file for each research topic. Save as `research/[topic-slug].md` (e.g. `research/masld-glp1-2026.md`). Assign an EV-XX ID and add to the Evidence Registry in `index.md`.
+> **Usage:** Copy this file for each research topic. Save as `research/[topic-slug].md` (e.g. `research/ra-tnf-inhibitors-2026.md`). Assign an EV-XX ID and add to the Evidence Registry in `index.md`.
 > **Purpose:** Research files are not literature dumps — they are curated, actionable summaries of what is currently known that is relevant to *this patient's* situation. Everything in the file should connect to a decision, a marker to track, or a hypothesis to hold open.
 > **Shelf life:** Flag for refresh after 12–18 months in active clinical fields. Add "Last reviewed" date on each refresh.
 
@@ -9,7 +9,7 @@
 
 ```
 EV ID:          EV-XX              ← Assign next available ID; register in index.md Section 11
-Topic:          [Condition or treatment name — e.g. "MASLD — GLP-1/Semaglutide Treatment Options"]
+Topic:          [Condition or treatment name — e.g. "Rheumatoid Arthritis — Biologic Therapy (TNF Inhibitors)"]
 Date researched: YYYY-MM-DD
 Researched by:  Claude [model] / [clinician name] / [other source]
 Last reviewed:  YYYY-MM-DD         ← Update on refresh; add "⚠️ Stale — refresh due" if >18 months

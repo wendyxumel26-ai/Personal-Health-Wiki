@@ -93,8 +93,8 @@
 
 | Scan | Reason | Due | Ordered by | Status |
 |------|--------|:---:|:----------:|--------|
-| [e.g. Liver ultrasound — 6-monthly monitoring] | [MASLD surveillance] | [Date] | [Gastroenterologist] | [Booked / Not yet booked] |
-| [FibroScan] | [Fibrosis staging before pharmacological treatment] | [When arranged] | | [Pending referral] |
+| [e.g. Liver ultrasound — 6-monthly monitoring] | [Fatty liver surveillance] | [Date] | [Gastroenterologist] | [Booked / Not yet booked] |
+| [e.g. Joint MRI — baseline assessment] | [Erosion staging before pharmacological treatment decision] | [When arranged] | [Rheumatologist] | [Pending referral] |
 
 ---
 
@@ -102,7 +102,7 @@
 
 **Imaging → Active Conditions:** Scan findings are a primary source of evidence for condition status in `index.md` Section 3. When a scan shows change (improvement, worsening, new finding), update the relevant active condition summary and hypothesis register.
 
-**Imaging → Hypothesis Register:** Structural findings on imaging can confirm or challenge working hypotheses. A fatty liver confirmed on ultrasound supports the hepatic triglyceride clearance hypothesis. A normal pelvic scan would challenge an adenomyosis hypothesis. Always cross-reference with `index.md` Section 2c.
+**Imaging → Hypothesis Register:** Structural findings on imaging can confirm or challenge working hypotheses. A fatty liver confirmed on ultrasound supports the hepatic triglyceride clearance hypothesis. A normal joint scan would challenge an inflammatory arthritis hypothesis. Always cross-reference with `index.md` Section 2c.
 
 **Imaging → Haematology:** Liver imaging findings inform interpretation of haematological markers — fatty liver supports the hepatic mechanism for sub-baseline Transferrin and MCV shifts. See `core/haematology.md`.
 
@@ -114,8 +114,8 @@
 
 ## 7. Open Questions
 
-1. [Question 1 — e.g. "Next liver ultrasound due DATE — book with gastroenterologist"]
-2. [Question 2 — e.g. "FibroScan not yet done — needed before pharmacological treatment eligibility"]
+1. [Question 1 — e.g. "Next surveillance scan due DATE — book with relevant specialist"]
+2. [Question 2 — e.g. "Baseline imaging not yet done — needed before pharmacological treatment eligibility assessment"]
 3. [Incidental finding follow-up — e.g. "Renal cyst noted DATE — repeat imaging due DATE"]
 
 ---
@@ -128,4 +128,4 @@
 
 ---
 
-*Next update: [Trigger — e.g. "After next scheduled scan; after FibroScan; after any new imaging"]*
+*Next update: [Trigger — e.g. "After next scheduled scan; after any new imaging"]*

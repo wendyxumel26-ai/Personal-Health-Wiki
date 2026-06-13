@@ -11,7 +11,7 @@
 2. **Fatty liver is often a functional diagnosis** — in mild/moderate MASLD, ultrasound shows steatosis but bloodwork may be normal; do not dismiss functional impairment on the basis of normal ALT/AST/GGT alone
 3. **Triglycerides require fasting interpretation** — a non-fasting triglyceride result is elevated by recent food intake; interpret with caution; note collection conditions
 4. **All lifestyle causes must be confirmed excluded before attributing elevated triglycerides to hepatic impairment** — alcohol, refined carbohydrate excess, sugar, insulin resistance, hypothyroidism, and genetic hyperlipidaemia should each be explicitly assessed
-5. **East Asian and lean phenotype MASLD is clinically distinct** — may occur at lower BMI thresholds; trial data from Western cohorts may not directly apply; note ethnicity when relevant
+5. **Lean phenotype MASLD is clinically distinct** — may occur at lower BMI thresholds than Western reference ranges assume; trial data from predominantly Western cohorts may not directly apply to all demographic groups; note relevant population context when interpreting
 6. **Liver is a cross-system organ** — affects triglyceride clearance, iron metabolism (transferrin synthesis), red cell maturation (MCV, B12/folate processing), protein synthesis, and drug metabolism; do not assess liver findings in isolation
 
 ---
@@ -259,7 +259,7 @@ Flag the result: *"AI-computed — verify with an independent FIB-4 calculator b
 ## 7. Open Questions
 
 1. [Question 1 — e.g. "FibroScan needed before formal pharmacological treatment eligibility can be assessed"]
-2. [Question 2 — e.g. "Discuss semaglutide at next gastroenterologist appointment — note thyroid history"]
+2. [Question 2 — e.g. "Discuss pharmacological options at next specialist appointment — note any contraindications from other active conditions"]
 3. [Question 3]
 
 ---
