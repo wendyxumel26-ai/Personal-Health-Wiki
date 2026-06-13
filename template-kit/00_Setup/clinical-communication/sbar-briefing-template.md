@@ -20,7 +20,7 @@
 
 [2–4 sentences. Current active conditions in plain language. What is being monitored and managed. What has recently changed or is being investigated.]
 
-*Example: "I have mild fatty liver (MASLD) confirmed on ultrasound, with persistently elevated triglycerides despite full lifestyle optimisation for 2+ years. I also have adenomyosis and fibroids diagnosed May 2026, contributing to iron deficiency re-emerging as of May 2026. I am in perimenopause. Pharmacological treatment for the fatty liver is under active discussion."*
+*Example: "I have rheumatoid arthritis diagnosed 2021, currently managed with methotrexate. Iron deficiency anaemia has recurred despite prior supplementation and is under active investigation. A biologic therapy trial is under discussion at my next rheumatology appointment."*
 
 ---
 
@@ -32,9 +32,9 @@
 - [Condition 3] — diagnosed [date], status
 
 **Confirmed excluded (do not re-investigate without new evidence):**
-- [e.g. Alcohol-related liver disease — zero alcohol 2+ years]
-- [e.g. Autoimmune hepatitis — Anti-LKM negative, AMA negative]
-- [e.g. Type 2 diabetes / insulin resistance — post-meal glucose 5.4]
+- [e.g. Septic arthritis — joint aspiration negative]
+- [e.g. Coeliac disease — tTG-IgA antibody negative]
+- [e.g. Hypothyroidism — TSH normal on three consecutive tests]
 
 **Current medications and supplements:**
 - [Medication / supplement — dose — since when]
@@ -43,7 +43,7 @@
 **Relevant history in brief:**
 [1–2 sentences only — prior events that matter for the current picture]
 
-*Example: "ANA speckled 640 during acute liver inflammation Jan 2024, resolved by Jul 2024. Iron infusion June 2024. TSH one below-range reading Aug 2025 (0.18L), returned to normal May 2026."*
+*Example: "Acute flare Jan 2023 — short prednisolone course. Methotrexate dose increased Mar 2024 following incomplete response. Iron infusion Oct 2024 — ferritin normalised but declined on re-check Mar 2025."*
 
 ---
 
@@ -52,11 +52,11 @@
 **Working understanding:**
 [1–3 sentences on the current best explanation for what is happening. Flag confidence level.]
 
-*Example: "Fatty liver is most likely maintaining elevated triglycerides via impaired hepatic clearance — all other causes excluded. Functional iron deficiency is driven by ongoing adenomyosis-related blood loss. MCV shift above personal baseline is unexplained — B12/folate deficiency cannot be excluded as results were taken on supplementation."*
+*Example: "Joint disease is partially controlled but not in remission — disease activity score remains elevated. Recurrent iron deficiency is most likely driven by chronic disease mechanism; dietary and GI causes have been excluded. Fatigue is disproportionate to current Hb — folate and thyroid status not yet fully assessed."*
 
 **What remains unresolved:**
-- [Open question 1 — e.g. "B12/folate status off supplements — re-test pending"]
-- [Open question 2 — e.g. "Adenomyosis treatment decision — Mirena IUD vs hormonal management"]
+- [Open question 1 — e.g. "Folate status — methotrexate is a folate antagonist; re-test pending"]
+- [Open question 2 — e.g. "Biologic therapy eligibility — to be assessed at next rheumatology appointment"]
 - [Open question 3]
 
 ---
@@ -65,9 +65,9 @@
 
 [The specific ask for this appointment — 1–3 items. Be direct.]
 
-- [e.g. "Referral to gastroenterologist for FibroScan staging before pharmacological treatment decision"]
-- [e.g. "Review re-emerging iron deficiency — is repeat infusion indicated, and should timing align with adenomyosis treatment?"]
-- [e.g. "Thyroid baseline before any hormonal treatment is commenced"]
+- [e.g. "Referral to rheumatologist for biologic therapy assessment"]
+- [e.g. "Repeat iron studies — confirm whether deficiency is re-emerging and whether another infusion is indicated"]
+- [e.g. "Folate re-test given ongoing methotrexate use"]
 
 ---
 
@@ -76,8 +76,8 @@
 | Clinician | Role | Practice / Hospital | Last seen |
 |-----------|------|-------------------|-----------|
 | [Name] | GP — coordinating | [Practice] | [Date] |
-| [Name] | Gastroenterologist | [Practice / Hospital] | [Date] |
-| [Name] | Gynaecologist | [Practice] | [Date] |
+| [Name] | [Specialist 1 — e.g. Rheumatologist] | [Practice / Hospital] | [Date] |
+| [Name] | [Specialist 2 — e.g. Haematologist] | [Practice] | [Date] |
 | [Other] | | | |
 
 **⚠️ Coordination note:** [e.g. "Two GPs managing separate systems — neither holds the complete picture. Specialist letters go back to referring GP only."]

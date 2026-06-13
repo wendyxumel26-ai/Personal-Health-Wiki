@@ -90,7 +90,7 @@ Standard specialist referrals expire after 12 months. For complex chronic patien
 Not all GPs do this automatically. Asking directly is usually sufficient.
 
 ### The specialist-to-specialist gap
-Specialists in Australia do not routinely communicate with each other. Their letters go to the referring GP only. If you are seeing a gastroenterologist and a gynaecologist whose work is directly connected (e.g. adenomyosis affecting iron, which affects liver metabolism), neither knows what the other is doing unless:
+Specialists in Australia do not routinely communicate with each other. Their letters go to the referring GP only. If you are seeing a rheumatologist and a haematologist whose work is directly connected (e.g. chronic inflammation driving iron deficiency, which affects treatment response), neither knows what the other is doing unless:
 
 1. Your GP actively coordinates and shares letters between them — possible but requires a GP who is engaged with the full picture
 2. You carry relevant information between appointments yourself — the most reliable method

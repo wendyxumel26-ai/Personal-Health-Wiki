@@ -156,7 +156,7 @@ Flag the result: *"AI-computed — verify with an independent FIB-4 calculator b
 **Structural vs. functional impairment distinction:**
 - Structural markers (ALT, AST, GGT, ALP): [Current status]
 - Functional markers (Albumin, Bilirubin, Transferrin — see haematology module): [Current status]
-- **Key insight:** [e.g. "LFTs fully normalised but functional impairment suspected given persistent sub-baseline Transferrin and elevated Triglycerides"]
+- **Key insight:** [e.g. "LFTs within range but functional impairment suspected given declining Albumin trend and rising Bilirubin across three draws"]
 
 ---
 

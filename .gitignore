@@ -38,3 +38,6 @@ session-build-log-*.md
 
 # Skills — excluded until review and testing complete; will be added in a future release
 skills/
+
+# Module files excluded pending privacy review
+template-kit/02_Patient_State/modules/conditions/hormonal-reproductive.md

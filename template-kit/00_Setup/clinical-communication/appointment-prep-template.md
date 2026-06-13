@@ -38,7 +38,7 @@ Before preparing, know what you are working with:
 
 ### 1b. What I need from this appointment
 
-Be specific. Not "discuss my health" — but "get a referral to a gastroenterologist for FibroScan staging" or "review iron deficiency re-emerging and decide whether another infusion is indicated."
+Be specific. Not "discuss my health" — but "get a referral to a rheumatologist for biologic therapy assessment" or "review recurrent iron deficiency and decide whether another infusion is indicated."
 
 **Primary goal (one thing — the appointment must achieve this):**
 [Write it here]
@@ -87,8 +87,8 @@ Write your questions in advance. Rank them. If time runs short, the top question
 
 List specifically so you can check at the end of the appointment whether you got them:
 
-- [ ] [Test name — e.g. "Iron studies, B12 off supplements, Folate off supplements"]
-- [ ] [Referral — e.g. "Referral to gastroenterologist for FibroScan"]
+- [ ] [Test name — e.g. "Full blood count, iron studies, folate"]
+- [ ] [Referral — e.g. "Referral to rheumatologist for biologic therapy review"]
 - [ ] [Prescription or repeat — e.g. "Repeat Vitamin D prescription"]
 - [ ] [Chronic Disease Management Plan review — Item 732, if annual review is due]
 
@@ -138,8 +138,8 @@ Complete this section within 24 hours while details are fresh.
 
 | Decision | By whom | Action required | By when |
 |----------|---------|----------------|---------|
-| [e.g. Iron infusion referral to haematology] | [GP name] | [GP to send referral] | [This week] |
-| [e.g. B12 re-test off supplements in 3 months] | | [I book the test] | [Date] |
+| [e.g. Rheumatology referral for biologic therapy assessment] | [GP name] | [GP to send referral] | [This week] |
+| [e.g. Folate re-test in 3 months] | | [I book the test] | [Date] |
 
 ### Tests or referrals confirmed
 

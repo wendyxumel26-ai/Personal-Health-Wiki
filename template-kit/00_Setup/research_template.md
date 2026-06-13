@@ -24,7 +24,7 @@ Relevant hypotheses: [HYP-XX IDs this research bears on]
 
 [1–3 sentences: what clinical question prompted this research; what decision it is meant to inform.]
 
-Example: *"Ordered to assess current evidence on GLP-1 agonists (specifically semaglutide) for MASLD treatment, following lifestyle ceiling being reached. Needed to understand regulatory status, efficacy evidence, and contraindications relevant to this patient's profile before raising with gastroenterologist."*
+Example: *"Ordered to assess current evidence on biologic therapies (specifically TNF inhibitors) for rheumatoid arthritis refractory to methotrexate. Needed to understand eligibility criteria, efficacy evidence, and contraindications relevant to this patient's profile before raising with rheumatologist."*
 
 ---
 
@@ -60,9 +60,9 @@ Example: *"Ordered to assess current evidence on GLP-1 agonists (specifically se
 
 [What markers, symptoms, or findings should be tracked in light of this research? What new questions does it raise?]
 
-- **New markers to track:** [e.g. "FibroScan score needed before GLP-1 eligibility can be assessed"]
-- **Markers to watch on treatment:** [e.g. "TSH — thyroid fluctuation history requires monitoring if starting GLP-1"]
-- **Questions this raises:** [e.g. "Does TGA approval status affect prescriber willingness to prescribe off-label?"]
+- **New markers to track:** [e.g. "TB screening required before biologic therapy can commence"]
+- **Markers to watch on treatment:** [e.g. "Full blood count — TNF inhibitors can cause cytopenias; monitor at baseline and each review"]
+- **Questions this raises:** [e.g. "Does PBS eligibility criteria require documented failure of two DMARDs, or one?"]
 
 ---
 

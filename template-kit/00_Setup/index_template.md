@@ -190,8 +190,8 @@ HYP-01: [Hypothesis statement]
 ## 10. Critical Notes for Any Clinician or AI Analysis
 
 1. **[Key analytical constraint — e.g. "Never analyse any single system in isolation"]**
-2. **[Personal baseline note — e.g. "Low-normal WCC is lifelong baseline for this patient — not a new finding"]**
-3. **[Ruled-out note — e.g. "Do not suggest alcohol or dietary cause — confirmed excluded after 2+ years of optimisation"]**
+2. **[Personal baseline note — e.g. "Elevated ESR is this patient's long-standing constitutional baseline — do not treat as a sign of active flare in isolation"]**
+3. **[Ruled-out note — e.g. "Do not suggest medication non-adherence as a cause — confirmed excluded; adherence formally verified"]**
 4. **[Ethnicity / demographics note if applicable]**
 5. **[Results interpretation note — e.g. "All results reflect best-case conditions — lifestyle fully optimised"]**
 
