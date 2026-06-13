@@ -1,0 +1,40 @@
+# Personal wiki instances — never commit these
+personal/
+*/personal/
+
+# Any folder containing a .setup-progress.md is a live wiki instance
+**/.setup-progress.md
+
+# Common local wiki folder names — add yours if different
+my-wiki/
+wiki/
+health/
+my-health/
+private/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary files
+*.tmp
+*.bak
+
+# Internal build and planning documents — not part of the public framework
+phase2-*.md
+session-build-log-*.md
+
+# Skills — excluded until review and testing complete; will be added in a future release
+skills/
